@@ -296,4 +296,89 @@ class Index
         return header("Location: $url");;
     }
 
+    public function opensteamruns($id)
+    {
+        $url = "steam://runsafe/$id";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamrunid($id)
+    {
+        $url = "steam://rungameid/$id";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamsett($command)
+    {
+        $url = "steam://settings/$command";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamsstr()
+    {
+        $url = "steam://stopstreaming";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamstore($id)
+    {
+        $url = "steam://store/$id";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamsupport($params)
+    {
+        $url = "steam://support/$params";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamsurvey($id)
+    {
+        $url = "steam://takesurvey/$id";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamuin($id)
+    {
+        $url = "steam://uninstall/$id";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamuf()
+    {
+        $url = "steam://UpdateFirmware";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamspage($page)
+    {
+        $url = "steam://url/$page";
+        
+        return header("Location: $url");;
+    }
+
+    public function opensteamun($id)
+    {
+        $url = "steam://updatenews/$id";
+        
+        return header("Location: $url");;
+    }
+
+    
+    public function opensteamval($id)
+    {
+        $url = "steam://validate/$id";
+        
+        return header("Location: $url");;
+    }
+
 }
