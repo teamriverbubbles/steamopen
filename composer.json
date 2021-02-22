@@ -1,0 +1,11 @@
+{
+    "name": "teamriverbubbles/steamopen",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Xavierhorwood",
+            "email": "39760456+Xavierhorwood@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
