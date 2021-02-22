@@ -9,4 +9,4 @@ t# Security Policy
 
 ## Reporting a Vulnerability
 
-Report Vulnerabilities to steam https://help.steampowered.com/
+Use the Issues tab. If it has something to do with the steam Client use https://help.steampowered.com/
