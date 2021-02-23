@@ -2,7 +2,7 @@ open steam games with php
 
 
 
-
+[How to Use](../../wiki/how-to-use)
 
 
 Legal
