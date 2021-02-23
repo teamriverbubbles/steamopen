@@ -1,6 +1,7 @@
 {
     "name": "teamriverbubbles/steamopen",
     "type": "library",
+    "description": "open steam games with php",
     "authors": [
         {
             "name": "Xavierhorwood",
