@@ -5,7 +5,7 @@ open steam games with php
 [How to Use](../../wiki/how-to-use)
 
 Donations
-[Donate with Crypto](https://commerce.coinbase.com/checkout/261de615-ec42-4101-9998-ff1c53f9524d)
+Donate with bitcoin: 16ZXcdtkFWEV1gqyo9PpKXRTiqnxg11Vkh
 
 
 Legal
