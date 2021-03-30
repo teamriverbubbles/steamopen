@@ -4,7 +4,6 @@ open steam games with php
 
 [How to Use](../../wiki/how-to-use)
 
-Donations
 Donate with bitcoin: 16ZXcdtkFWEV1gqyo9PpKXRTiqnxg11Vkh
 
 
