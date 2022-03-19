@@ -4,8 +4,6 @@ open steam games with php
 
 [How to Use](../../wiki/how-to-use)
 
-[Donate with bitcoin](https://commerce.coinbase.com/checkout/261de615-ec42-4101-9998-ff1c53f9524d)
-
 
 Legal
 
